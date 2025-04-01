@@ -1,3 +1,7 @@
-- With 'incomplete' I referred to the issue that the 'bus stop text' is missing for school trip for the bus stop at destination
+My first commit
+Commit from another branch
+Fix some typo (1545)
+Private int 'Jump' = '10'
+'Businka' is the best cat in the world 
+Please be kind for me
 
-- With 'incomplete' I refered to the issue that duration is now incomplete on the row where also the kilometers are shown for that trip section, because the additional minutes (difference between set duration and calculated duration) are now incorrectly presented on a separate row
