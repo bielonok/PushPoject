@@ -1,3 +1,5 @@
 My first commit
 Commit from another branch
 Fix some typo (1545)
+Private int 'Jump' = '10
+'
